@@ -1,0 +1,108 @@
+
+Construction Specifications - PREMIUM @1780/SFT
+-----------------------------------------------
+
+
+STRUCTURE
+===================================================================================================================
+Item                  | Specifications                           | Brand / Material          	    | Price       |
+----------------------|------------------------------------------|----------------------------------|-------------|
+Steel                 | Grade 550 MT                             | Tata / Jindal / Client’s Choice  | 		  |
+Cement                | ISI Standards                            | Ultratech / Client’s Choice      | 		  |
+Sand                  | Good quality river sand                  |                            	    | 		  |
+Brick                 | Fly ash brick                            | Best in Market                   | 		  |
+Aggregate             | 20mm & 40mm                              |                                  | 		  |
+Concrete              | M20 grade (1:1.5:3)                      |                                  | 		  |
+Brick work & Plaster  | 1:6 Mortar ratio                         |                                  | 		  |
+Building Height       | 10’-6”                                   |                                  | 		  |
+===================================================================================================================
+
+
+EXTERIOR
+===================================================================================================================
+Item                  | Specifications                           | Brand / Material             | Price		  |
+----------------------|------------------------------------------|------------------------------|-----------------|
+Walls                 | White cement + primer + weather paint    | Asian Paint Apex             | 		  |
+Main Door             | Polished Teak, Salwood frame             | Teak Wood                    | ₹25,000	  |
+Grill                 | MS 10mm Square Bar                       | Painted enamel               | 		  |
+Balcony               | S.S. Railing                             | Jindal 304 grade             | 		  |
+===================================================================================================================
+
+
+LIVING / DINING ROOM
+===================================================================================================================
+Item                  | Specifications                           | Brand / Material             | Price		  |
+----------------------|------------------------------------------|------------------------------|-----------------|
+Floor                 | Vitrified Tile (2’ x 2’)                 | Johnson/Somany/Rak           | ₹55–60/sft	  |
+Walls                 | Putty + Primer + Emulsion                | Asian Paint Premium          | 		  |
+Basin Wall            | Ceramic Tiles (4’x7’)                    |                              | ₹45–50/sft	  |
+Ceiling               | Putty + Primer + Emulsion                | Birla White + Asian Paint    | 		  |
+Doors                 | Flush Door + Salwood/WPC                 | S.S. Fittings                | ₹7000		  |
+Stairs                | Marble Treads/Risers + SS Railing        | Jindal 304 + Granite         | ₹100–120/sft	  |
+Windows               | UPVC + MS Grill (10mm)                   |                              | ₹450/sft	  |
+===================================================================================================================
+
+
+BEDROOMS
+===================================================================================================================
+Item                  | Specifications                           | Brand / Material             | Price		  |
+----------------------|------------------------------------------|------------------------------|-----------------|
+Floor                 | Vitrified Tile (2’ x 2’)                 |                              | ₹55–60/sft	  |
+Walls                 | Putty + Primer + Emulsion                | Asian Paint Standard         | 		  |
+Ceiling               | Putty + Primer + Emulsion                | Birla White + Asian Paint    | 		  |
+Doors                 | Flush Door + Salwood/WPC                 |                              | ₹7000		  |
+Windows               | UPVC + MS Grill                          |                              | ₹450/sft	  |
+Wardrobe              | RCC Built                                |                              | 		  |
+===================================================================================================================
+
+
+KITCHEN
+===================================================================================================================
+Item                  | Specifications                           | Brand / Material             | Price		  |
+----------------------|------------------------------------------|------------------------------|-----------------|
+Floor                 | Anti-skid Ceramic Tile                   |                              | ₹50–55/sft	  |
+Walls                 | Tiles up to 4’ + Emulsion                |                              | ₹45–50/sft	  |
+Counter Top           | Granite Platform + SS Sink               |                              | ₹90–100/sft + ₹4000|
+Ceiling               | Putty + Primer + Emulsion                |                              | 		  |
+Doors                 | Flush Door + Salwood/WPC                 |                              | ₹7000		  |
+Windows               | UPVC + MS Grill                          |                              | ₹450/sft	  |
+Modular               | Modular Kitchen                          | Company’s Design             | 		  |
+===================================================================================================================
+
+
+TOILET / BATHROOM
+===================================================================================================================
+Item                  | Specifications                           | Brand / Material             | Price		  |
+----------------------|------------------------------------------|------------------------------|-----------------|
+Floor                 | Anti-skid Tile + Epoxy Grout             |                              | ₹45–50/sft	  |
+Walls                 | Ceramic Tiles (7’ height)                |                              | ₹45–50/sft	  |
+Doors                 | PVC Shutter                              | Greenply                     | ₹4500		  |
+Sanitary/Fittings     | CP Fittings                              | Cera / Parryware             | ₹40,000/bathroom|
+===================================================================================================================
+
+
+WATER SUPPLY
+===================================================================================================================
+Item                  | Specifications                           | Brand / Material             | Price		  |
+----------------------|------------------------------------------|------------------------------|-----------------|
+Water Tank            | PVC ‘Supreme’ 1000L on brick ledge       | Supreme                      | 		  |
+Internal Pipes        | Hot & Cold Water Pipes                   | Supreme / Finolex            | 		  |
+External Pipes        | PVC to Sewer line                        |                              | 		  |
+Rain Water Pipe       | Discharged near ground                   |                              | 		  |
+===================================================================================================================
+ 
+ELECTRICAL POINTS
+===================================================================================================================
+Item                  | Specifications                           | Brand / Material             | Price		  |
+----------------------|------------------------------------------|------------------------------|-----------------|
+Living                | TV, 2x 5A, 2 lights, fan, inverter, AC   | Switch & Board               | ₹50/pc	  |
+Dining                | Fan, light, fridge point                 |                              | 		  |
+Bedrooms              | 2 lights, fan, 2x 5A, AC                 |                              | 		  |
+Kitchen               | Light, 15A, 2x 5A, exhaust, chimney      |                              | 		  |
+Toilets               | Light, geyser, 5A                        |                              | 		  |
+Balcony               | 1 Light                                  |                              | 		  |
+Lobby/Staircase       | Ceiling lights                           |                              | 		  |
+Garage                | Light, bell, motor                       |                              | 		  |
+===================================================================================================================
+
+Note: This pricing is for superstructure only. Substructure cost is based on site visit and soil condition analysis.
